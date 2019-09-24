@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/ruthlaird/code/react-front-to-back/contactmanager/src/components/contacts/contact.css","main.7b02a67c.chunk.css"],"names":[],"mappings":"AAAA,GACE,UAAA,CACA,wBCCF","file":"main.7b02a67c.chunk.css","sourcesContent":["h4 {\n  color: blue;\n  text-transform: uppercase;\n}\n","h4 {\n  color: blue;\n  text-transform: uppercase;\n}\n\n\n"]}
