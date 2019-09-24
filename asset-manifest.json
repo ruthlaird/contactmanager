@@ -1,15 +1,15 @@
 {
-  "main.css": "/ruthlaird/contactmanager/static/css/main.7b02a67c.chunk.css",
-  "main.js": "/ruthlaird/contactmanager/static/js/main.9dd87e7c.chunk.js",
-  "main.js.map": "/ruthlaird/contactmanager/static/js/main.9dd87e7c.chunk.js.map",
-  "runtime~main.js": "/ruthlaird/contactmanager/static/js/runtime~main.855da1d4.js",
-  "runtime~main.js.map": "/ruthlaird/contactmanager/static/js/runtime~main.855da1d4.js.map",
-  "static/css/2.5744dfe0.chunk.css": "/ruthlaird/contactmanager/static/css/2.5744dfe0.chunk.css",
-  "static/js/2.a7942763.chunk.js": "/ruthlaird/contactmanager/static/js/2.a7942763.chunk.js",
-  "static/js/2.a7942763.chunk.js.map": "/ruthlaird/contactmanager/static/js/2.a7942763.chunk.js.map",
-  "index.html": "/ruthlaird/contactmanager/index.html",
-  "precache-manifest.c0e9976e9508f712e979124e429037f0.js": "/ruthlaird/contactmanager/precache-manifest.c0e9976e9508f712e979124e429037f0.js",
-  "service-worker.js": "/ruthlaird/contactmanager/service-worker.js",
-  "static/css/2.5744dfe0.chunk.css.map": "/ruthlaird/contactmanager/static/css/2.5744dfe0.chunk.css.map",
-  "static/css/main.7b02a67c.chunk.css.map": "/ruthlaird/contactmanager/static/css/main.7b02a67c.chunk.css.map"
+  "main.css": "/contactmanager/static/css/main.7b02a67c.chunk.css",
+  "main.js": "/contactmanager/static/js/main.4445d4bf.chunk.js",
+  "main.js.map": "/contactmanager/static/js/main.4445d4bf.chunk.js.map",
+  "runtime~main.js": "/contactmanager/static/js/runtime~main.a9b80a0b.js",
+  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.a9b80a0b.js.map",
+  "static/css/2.5744dfe0.chunk.css": "/contactmanager/static/css/2.5744dfe0.chunk.css",
+  "static/js/2.a7942763.chunk.js": "/contactmanager/static/js/2.a7942763.chunk.js",
+  "static/js/2.a7942763.chunk.js.map": "/contactmanager/static/js/2.a7942763.chunk.js.map",
+  "index.html": "/contactmanager/index.html",
+  "precache-manifest.2f7d42708cc9fbfa61fc68554906aaf9.js": "/contactmanager/precache-manifest.2f7d42708cc9fbfa61fc68554906aaf9.js",
+  "service-worker.js": "/contactmanager/service-worker.js",
+  "static/css/2.5744dfe0.chunk.css.map": "/contactmanager/static/css/2.5744dfe0.chunk.css.map",
+  "static/css/main.7b02a67c.chunk.css.map": "/contactmanager/static/css/main.7b02a67c.chunk.css.map"
 }
